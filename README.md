@@ -1,2 +1,2 @@
 # githubforDev
-this is github for development
+this is github for development.
